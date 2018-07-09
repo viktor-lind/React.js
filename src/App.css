@@ -1,0 +1,33 @@
+.btn{
+    display: block;
+    width: auto;
+    margin: 0 auto;
+    height: 3vw;
+    font-size: 1.5vw;
+    margin-bottom: 3vw;
+    margin-top: 3vw;
+}
+.gif{
+    
+    width: 90vw;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    
+}
+.imdb{
+    margin-top: 5vw;
+    display: block;
+    text-align: center;
+}
+.table{
+    margin: 0 auto;
+    margin-top: 2.5vw;
+    text-align: left;
+    border: solid black;
+    border-width: 0.2px;
+}
+
+.imdb-search{
+    font-size: 1.5vw;
+}
